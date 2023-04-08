@@ -3,31 +3,33 @@
 
 # About Me
 
-- Hi there! I'm Arwa, a dedicated and passionate Junior Data Scientist.
-I am excited about using data-driven insights to solve real-world problems and make a positive impact.
+- Hi there! I'm Arwa, a dedicated and passionate Junior Data Scientist. <br>
+- I'm excited about using data-driven insights to solve real-world problems and make a positive impact.
 
 # Interests
-- 🔍<b> Data Science:</b> I am deeply interested in data science,
-which allows me to combine my love for statistics, programming, 
+- 🔍<b> Data Science:</b> I'm deeply interested in data science,
+which allows me to combine my love for statistics, programming, <br>
 and problem-solving. I enjoy working on a variety of projects that involve collecting, 
 cleaning, analyzing, and visualizing data.<br>
 
 - 🌐<b> Web Development:</b> I have a strong interest in web development,
- as it enables me to create elegant and functional websites that help users interact with data. <br>
-
-- 🎮<b> Game Development:</b> I am also enthusiastic about game development, 
-as it combines my passion for storytelling, creativity, 
+ as it enables me to create elegant and functional <br> websites that help users interact with data. <br>
+ 
+- 💻<b> Cloud Computing:</b> I'm particularly interested in the management of cloud infrastructure,
+ virtualization technologies,<br> and cloud security. <br>
+- 🎮<b> Game Development:</b> I'm also enthusiastic about game development, 
+as it combines my passion for storytelling,<br> creativity, 
 and technology. <br>
 
 # Current Projects
 
 - 🌱 Machine Learning & Deep Learning: I am actively working on multiple 
-projects that involve machine learning and deep learning techniques.
+projects that involve ML and DL techniques. <br>
 These projects range from <b> predictive modeling </b> to <b> computer vision </b> and <b> natural language processing applications</b>.
 
 # Connect with Me
-I am always happy to connect with like-minded individuals and collaborate 
-on exciting projects! To get in touch with me, you can: <br>
+I'm always happy to connect with like-minded individuals and collaborate 
+on exciting projects!<br> To get in touch with me, you can: <br>
 - 🐦 Follow me on Twitter: @0xArwa
 - 💼 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/arwa-omayrah-79386125a/"> here </a>
 - 📧 Send me an email: arwaomayrah@outlook.com
@@ -63,6 +65,7 @@ on exciting projects! To get in touch with me, you can: <br>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 
