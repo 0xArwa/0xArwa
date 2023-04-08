@@ -1,10 +1,10 @@
 
-<div align="center"><h1> Hi, I am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Arwa </h1> </div>
+<div align="center"><h1> Hi there! I am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Arwa </h1> </div>
 
 # About Me
 
-- Hi there! I'm Arwa, a passionate Data Scientist. <br>
-- I'm excited about using data-driven insights to solve real-world problems and make a positive impact.
+- I'm Arwa, an enthusiastic Data Scientist. <br>
+- I'm committed to harnessing the power of data to address real-world issues and create a meaningful difference.
 
 # Interests
 - 🔍<b> Data Science:</b> I'm deeply interested in data science,
