@@ -23,7 +23,7 @@ and technology. <br>
 
 # Current Projects
 
-- 🌱 Machine Learning & Deep Learning: I am actively working on multiple 
+- 🌱 Machine Learning & Deep Learning: I'm actively working on multiple 
 projects that involve ML and DL techniques. <br>
 These projects range from <b> predictive modeling </b> to <b> computer vision </b> and <b> natural language processing applications</b>.
 
