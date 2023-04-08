@@ -3,7 +3,7 @@
 
 # About Me
 
-Hi there! I'm Arwa, a dedicated and passionate Junior Data Scientist.
+- Hi there! I'm Arwa, a dedicated and passionate Junior Data Scientist.
 I am excited about using data-driven insights to solve real-world problems and make a positive impact.
 
 # Interests
