@@ -30,7 +30,7 @@ These projects range from <b> predictive modeling </b> to <b> computer vision </
 # Connect with Me
 I'm always happy to connect with like-minded individuals and collaborate 
 on exciting projects!<br> To get in touch with me, you can: <br>
-- 🐦 Follow me on Twitter: @0xArwa
+- 🐦 Follow me on Twitter: <a href="https://twitter.com/0xArwa">@0xArwa</a>
 - 💼 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/arwa-omayrah-79386125a/"> here </a>
 - 📧 Send me an email: arwaomayrah@outlook.com
 
