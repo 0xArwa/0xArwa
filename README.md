@@ -3,8 +3,8 @@
 
 # About Me
 
-- I'm Arwa, an enthusiastic Data Scientist. <br>
-- I'm committed to harnessing the power of data to address real-world issues and create a meaningful difference.
+- 🐈 I'm Arwa, an enthusiastic Data Scientist. <br>
+- ✨ I'm committed to harnessing the power of data to address real-world issues and create a meaningful difference.
 
 # Interests
 - 🔍<b> Data Science:</b> I'm deeply interested in data science,
