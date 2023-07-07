@@ -16,7 +16,7 @@ cleaning, analyzing, and visualizing data.<br>
  as it enables me to create elegant and functional <br> websites that help users interact with data. <br>
  
 - 💻<b> Cloud Computing:</b> I'm particularly interested in the management of cloud infrastructure,
- virtualization technologies,<br> and cloud security. <br>
+ virtualization and containerization technologies,<br> and cloud security. <br>
 - 🎮<b> Game Development:</b> I'm also enthusiastic about game development, 
 as it combines my passion for storytelling,<br> creativity, 
 and technology. <br>
