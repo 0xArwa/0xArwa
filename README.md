@@ -3,7 +3,7 @@
 
 # About Me
 
-- 🐈 I'm Arwa, a Data Scientist in the making. <br>
+- 👉 I'm Arwa, a Data Scientist in the making. <br>
 - ✨ I'm committed to harnessing the power of data to address real-world issues and create a meaningful difference.
 
 # Interests
