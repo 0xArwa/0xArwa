@@ -2,6 +2,7 @@
 
 ###
 
+[![](https://visitcount.itsvg.in/api?id=0xarwa&icon=0&color=0)](https://visitcount.itsvg.in)
 <h2 align="left">About me</h2>
 
 ###
@@ -111,6 +112,5 @@
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=0xarwa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- created using https://profile-readme-generator.com-->
