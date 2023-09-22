@@ -1,82 +1,116 @@
+<h1 align="center">Hey there!</h1>
 
-<div align="center"><h1> Hi there! I am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Arwa </h1> </div>
+###
 
-# About Me
+<h2 align="left">About me</h2>
 
-- 👉 I'm Arwa, a Data Scientist in the making. <br>
-- ✨ I'm committed to harnessing the power of data to address real-world issues and create a meaningful difference.
+###
 
-# Interests
-- 🔍<b> Data Science:</b> I'm deeply interested in data science,
-which allows me to combine my love for statistics, programming, <br>
-and problem-solving. I enjoy working on a variety of projects that involve collecting, 
-cleaning, analyzing, and visualizing data.<br>
+<p align="left">- 👉 I'm Arwa, a Data Scientist in the making. <br>- ✨I'm dedicated to using data to make a meaningful impact on real-world problems.</p>
 
-- 🌐<b> Web Development:</b> I have a strong interest in web development,
- as it enables me to create elegant and functional <br> websites that help users interact with data. <br>
- 
-- 💻<b> Cloud Computing:</b> I'm particularly interested in the management of cloud infrastructure,
- virtualization and containerization technologies, and cloud security. <br>
-- 🎮<b> Game Development:</b> I'm also enthusiastic about game development, 
-as it combines my passion for storytelling,<br> creativity, 
-and technology. <br>
+###
 
-# Current Projects
+<h2 align="left">Interests</h2>
 
-- 🌱 Machine Learning & Deep Learning: I'm actively working on multiple 
-projects that involve ML and DL techniques. <br>
-These projects range from <b> predictive modeling </b> to <b> computer vision </b> and <b> natural language processing applications</b>.
+###
 
-# Connect with Me
-I'm always happy to connect with like-minded individuals and collaborate 
-on exciting projects!<br> To get in touch with me, you can: <br>
-- 🐦 Follow me on Twitter: <a href="https://twitter.com/0xArwa">@0xArwa</a>
-- 💼 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/arwa-omayrah-79386125a/"> here </a>
-- 📧 Send me an email: arwaomayrah@outlook.com
+<p align="left">- 🔍 Data Science<br>- 🌐 Web Development<br>- 💻 Cloud Computing<br>- 🎮 Game Development.</p>
 
+###
 
-# Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
-![Apache Spark](https://img.shields.io/badge/apache_spark-E25A1C.svg?logo=apachespark&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?logo=jupyter&logoColor=white&style=for-the-badge)
-![Keras](https://img.shields.io/badge/keras-D00000.svg?logo=keras&logoColor=white&style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E.svg?logo=scikitlearn&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge)
-![Numpy](https://img.shields.io/badge/numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge)
-![Spacy](https://img.shields.io/badge/spacy-09A3D5.svg?logo=spacy&logoColor=white&style=for-the-badge)
+<h2 align="left">Current Projects</h2>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
+###
 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white&style=for-the-badge)
-![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
-![JWT/JSON Web Token](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
-![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge)
-![P5js](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=FFFFFF&style=for-the-badge)
+<p align="left">- 🌱 I'm actively working on multiple projects that involve ML and DL techniques.</p>
 
+###
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
+<h2 align="left">Tech Stack</h2>
 
+###
 
-# GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=0xarwa&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xarwa&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xarwa&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">Data Science/ML</p>
 
-# Latest Tweet
-[![](https://tweeco.pushkaryadav.in/api/handle/0xarwa)](https://tweeco.pushkaryadav.in)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
+
+###
+
+<p align="left">Web Devlopment</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+</div>
+
+###
+
+<p align="left">Other</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xArwa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xArwa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Connect with Me 😊</h2>
+
+###
+
+<p align="left">I'm always happy to connect with like-minded individuals and collaborate on exciting projects! Feel free to contact me through any of the social accounts I've shared on my page.</p>
+
+###
 
 [![](https://visitcount.itsvg.in/api?id=0xarwa&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- made using https://prm.pushkaryadav.in -->
+
+<!-- created using https://profile-readme-generator.com-->
