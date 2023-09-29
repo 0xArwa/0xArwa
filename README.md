@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- 👉 I'm Arwa, a Data Scientist in the making. <br>- ✨I'm dedicated to using data to make a meaningful impact on real-world problems.</p>
+<p align="left">- 👉 I'm Arwa, a Data Scientist in the making. <br>- ✨ I'm dedicated to using data to make a meaningful impact on real-world problems.</p>
 
 ###
 
